@@ -1,0 +1,11 @@
+{
+  "name": "sort-algorithm-demo",
+  "version": "1.0.0",
+  "description": "bubbleSort.js\r ## 2. 选择排序\r ## 3. 插入排序\r ## 4. 希尔排序\r ## 5. 快速排序\r ## 6. 堆排序\r ## 7. 归并排序\r ## 8. 计数排序\r ## 9. 桶排序\r ## 10. 基数排序",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
