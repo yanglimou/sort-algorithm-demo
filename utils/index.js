@@ -29,4 +29,4 @@ class Utils {
         array[j] = temp
     }
 }
-exports.Utils = new Utils()
+module.exports = new Utils()

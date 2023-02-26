@@ -1,4 +1,4 @@
-let { Utils: { test, swap } } = require('../utils/index.js')
+let { test, swap } = require('../utils/index.js')
 test("冒泡排序", (array) => {
     /**
      * 两两交换位置，将最大的元素冒泡到最后

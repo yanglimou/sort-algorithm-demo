@@ -1,4 +1,4 @@
-let { Utils: { test, swap } } = require('../utils/index.js')
+let { test, swap } = require('../utils/index.js')
 test("选择排序", (array) => {
     /**
      * 选择最大的一个，然后与最后一个元素交换

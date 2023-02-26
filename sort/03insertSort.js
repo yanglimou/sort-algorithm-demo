@@ -1,4 +1,4 @@
-let { Utils: { test, swap } } = require('../utils/index.js')
+let { test } = require('../utils/index.js')
 test("插入排序", (array) => {
     /**
      * 将后一个元素插入到前面已经排好序的数组中，并移动元素
